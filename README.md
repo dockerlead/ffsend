@@ -9,7 +9,7 @@ git clone https://github.com/netfan1993427/ffsend
 cd ffsend
 chmod +x ffsend
 echo $PATH    #Check your system path, which is different from one OS to another
-sudo mv ffsend /usr/sbin    #In case of Ubuntu
-ffsend upload filename [options if you have paid account]
+sudo mv ffsend /usr/sbin/    #In case of Ubuntu
+ffsend upload filename [some cool options are available if you have a paid account]
 ffsend download filename
 ```
