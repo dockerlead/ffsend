@@ -5,7 +5,7 @@
  Thanks for using! You could star this repo :/ <br>
 
 ```shell
-git clone https://github.com/netfan1993427/ffsend
+git clone https://github.com/dockerlead/ffsend.git
 cd ffsend
 chmod +x ffsend
 echo $PATH    #Check your system path, which is different from one OS to another
